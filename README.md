@@ -11,6 +11,7 @@ Swiftで色々やる
 ### Sample TODO
 UIKitのNavigationControllerからSwiftUIのNavigationLinkへ遷移させてるためNavigationBarが表示されたままになってる。
 NavigationControllerのカスタムクラスで制御してもいいが一旦放置
+参考サイト: https://swiswiswift.com/2020-12-10/
 |||
 | -- | -- |
 | <img src="https://github.com/1mash0/sandbox_Swift/assets/52849416/c2a51fb3-4533-496a-a7a4-3ed57e247ec2" width="300"> | <img src="https://github.com/1mash0/sandbox_Swift/assets/52849416/4b835ea5-8d31-4d81-9d68-79f37ce62a18" width="300"> |
