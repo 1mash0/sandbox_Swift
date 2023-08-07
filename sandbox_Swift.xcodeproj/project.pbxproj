@@ -114,8 +114,8 @@
 			isa = PBXGroup;
 			children = (
 				6B90070E2A6E74C300872DAE /* sandbox_Swift */,
-				6B9007252A6E74C500872DAE /* sandbox_swiftTests */,
-				6B90072F2A6E74C500872DAE /* sandbox_swiftUITests */,
+				6B9007252A6E74C500872DAE /* sandbox_SwiftTests */,
+				6B90072F2A6E74C500872DAE /* sandbox_SwiftUITests */,
 				6B90070D2A6E74C300872DAE /* Products */,
 				6B9007402A6E7A1900872DAE /* Frameworks */,
 			);
@@ -149,21 +149,21 @@
 			path = sandbox_Swift;
 			sourceTree = "<group>";
 		};
-		6B9007252A6E74C500872DAE /* sandbox_swiftTests */ = {
+		6B9007252A6E74C500872DAE /* sandbox_SwiftTests */ = {
 			isa = PBXGroup;
 			children = (
 				6B9007262A6E74C500872DAE /* sandbox_swiftTests.swift */,
 			);
-			path = sandbox_swiftTests;
+			path = sandbox_SwiftTests;
 			sourceTree = "<group>";
 		};
-		6B90072F2A6E74C500872DAE /* sandbox_swiftUITests */ = {
+		6B90072F2A6E74C500872DAE /* sandbox_SwiftUITests */ = {
 			isa = PBXGroup;
 			children = (
 				6B9007302A6E74C500872DAE /* sandbox_swiftUITests.swift */,
 				6B9007322A6E74C500872DAE /* sandbox_swiftUITestsLaunchTests.swift */,
 			);
-			path = sandbox_swiftUITests;
+			path = sandbox_SwiftUITests;
 			sourceTree = "<group>";
 		};
 		6B9007402A6E7A1900872DAE /* Frameworks */ = {
